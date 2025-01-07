@@ -1,0 +1,23 @@
+{
+    "players": "60/64",
+    "ping": "104ms",
+    "tickrate": "60 Hz",
+    "settings": {
+      "region": "Europe - DE",
+      "punkbuster": "ON",
+      "fairfight": "ON",
+      "password": "OFF",
+      "preset": "Normal"
+    },
+    "rules": {
+      "tickets": 400,
+      "vehicleSpawnDelay": 25,
+      "bulletDamage": 100,
+      "kickAfterTeamKills": 5,
+      "playerHealth": 100,
+      "playerRespawnTime": 100,
+      "kickAfterIdle": 300,
+      "banAfterKicks": 3
+    }
+  }
+  
